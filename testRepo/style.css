@@ -1,0 +1,12 @@
+
+.test-wrap{
+    width: 950px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    width: 300px;
+    border: solid grey 5px;
+    border-radius: 10px;
+}
