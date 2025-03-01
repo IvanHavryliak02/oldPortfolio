@@ -193,7 +193,7 @@ const translation = {
     },
     "tpass-li1": {
         "EN": `<span class="icon-interactive"></span>In this project, I practiced working with absolutely positioned elements and their adaptation. The slider was written entirely by <span class="jquery-tech">myself</span>`,
-        "PL": `<span class="icon-interactive"></span>W tym projekcie ćwiczyłem pracę z absolutnie pozycjonowanymi elementami i ich adaptację. Slider został napisany całkowicie <span class="jquery-tech">samodzielnie</span>, bez użycia jakichkolwiek bibliotek.`
+        "PL": `<span class="icon-interactive"></span>W tym projekcie ćwiczyłem pracę z absolutnie pozycjonowanymi elementami i ich adaptację. Slider został napisany całkowicie <span class="jquery-tech">samodzielnie</span>.`
     },
     "contacts-header": {
         "EN": `Contacts`,
