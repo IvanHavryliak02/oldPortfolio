@@ -183,6 +183,18 @@ const translation = {
         "EN": `<span class="icon-interactive"></span>All the interactivity and the script itself are my personal development. No third-party technologies or ideas were used.`,
         "PL": `<span class="icon-interactive"></span>Cała interaktywność i sam skrypt są moim osobistym rozwojem. Nie użyto technologii ani pomysłów osób trzecich.`
     },
+    "tpass-layout": {
+        "EN": `<span class="icon-wrench "></span>For layout: Grid & Flexbox`,
+        "PL": `<span class="icon-wrench "></span>Do układu: Grid i Flexbox`
+    },
+    "tpass-lib": {
+        "EN": `<span class="icon-wrench"></span>Libraries: none`,
+        "PL": `<span class="icon-wrench"></span>Biblioteki: brak`
+    },
+    "tpass-li1": {
+        "EN": `<span class="icon-interactive"></span>In this project, I practiced working with absolutely positioned elements and their adaptation. The slider was written entirely by <span class="jquery-tech">myself</span>`,
+        "PL": `<span class="icon-interactive"></span>W tym projekcie ćwiczyłem pracę z absolutnie pozycjonowanymi elementami i ich adaptację. Slider został napisany całkowicie <span class="jquery-tech">samodzielnie</span>, bez użycia jakichkolwiek bibliotek.`
+    },
     "contacts-header": {
         "EN": `Contacts`,
         "PL": `Kontakty`
