@@ -7,4 +7,4 @@ I closed this branch for several reasons:
 
 I left this repository here so you can see how my (old and incomplete) portfolio was developing over time. It shows that I worked on it myself, and did not steal or buy someone else's work. 😄
 
-My current portfolio is available here: *link*
+My current portfolio is available here: https://github.com/IvanHavryliak02/IvanHavryliak02.github.io
